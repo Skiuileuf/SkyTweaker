@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skytweaker",
+  "name": "SkyTweaker",
+  "description": "Adds extra capabilities to CraftTweaker, such as item cooldowns. To use import \"import mods.skytweaker.Cooldown;\" in your zenscript, then Cooldown.setCooldown(IPlayer, IItemStack, lenInSeconds as float);. You can also use Cooldown.getCooldown(IPlayer, IItemStack), which returns a float. This mod also adds the /cooldown command (/cooldown set <targets> <item> <seconds> OR get <targets> <item>), which requires admin rights.",
+  "version": "1.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skiuileuf"],
+  "credits": "Witixin - Help with Java stuff",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
